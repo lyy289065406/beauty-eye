@@ -8,6 +8,7 @@
 
 因此构件的官方组织/作者已放弃维护，且在 maven 中央仓库无法下载原版，故有了此项目。
 
+> 原代码仓库为：https://github.com/JackJiang2011/beautyeye
 
 ## 使用方式
 
