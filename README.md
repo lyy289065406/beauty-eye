@@ -37,3 +37,10 @@ maven 的 `settings.yml` 配置 sonatype 中央仓库：
     <version>3.7.0</version>
 </dependency>
 ```
+
+
+## 相关文档
+
+- [中文](./SOP_ch.md)
+- [英文](./SOP_en.md)
+
