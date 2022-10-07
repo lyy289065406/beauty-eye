@@ -41,6 +41,7 @@ maven 的 `settings.yml` 配置 sonatype 中央仓库：
 
 ## 相关文档
 
+- [Javadoc](https://lyy289065406.github.io/beauty-eye/)
 - [中文](./SOP_ch.md)
 - [英文](./SOP_en.md)
 
